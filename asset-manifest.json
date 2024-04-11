@@ -11,7 +11,15 @@
     "static/js/3.eee94dc8.chunk.js.map": "/deploy-react-app/static/js/3.eee94dc8.chunk.js.map",
     "index.html": "/deploy-react-app/index.html",
     "static/css/main.4d1b71a3.chunk.css.map": "/deploy-react-app/static/css/main.4d1b71a3.chunk.css.map",
-    "static/js/2.0378e834.chunk.js.LICENSE.txt": "/deploy-react-app/static/js/2.0378e834.chunk.js.LICENSE.txt"
+    "static/js/2.0378e834.chunk.js.LICENSE.txt": "/deploy-react-app/static/js/2.0378e834.chunk.js.LICENSE.txt",
+    "customFont.woff": "/deploy-react-app/fonts/customFont.woff",
+    "customFont.woff2": "/deploy-react-app/fonts/customFont.woff2",
+    "logo.png": "/deploy-react-app/images/logo.png",
+    "background.jpg": "/deploy-react-app/images/background.jpg",
+    "helperFunctions.js": "/deploy-react-app/scripts/helperFunctions.js",
+    "analytics.js": "/deploy-react-app/scripts/analytics.js",
+    "chartLibrary.min.js": "/deploy-react-app/libs/chartLibrary.min.js",
+    "calendar.min.js": "/deploy-react-app/libs/calendar.min.js"
   },
   "entrypoints": [
     "static/js/runtime-main.fdd8b8f8.js",
